@@ -1,0 +1,8 @@
+{
+  "name": "Jake's Lab Tutorial",
+  "steps": [{
+    "file": "step1.md"
+  },{
+    "file": "step2.md"
+  }]
+}
